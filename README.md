@@ -16,9 +16,9 @@ The Citi Bike Program has implemented a robust infrastructure for collecting dat
     (8) What is the average distance in miles for a bike trip?
 
 ## Technologies Used -
-   Jupiter Notebook
-   Tableau Public Server (to publish)
-   Tableau Desktop
+        Jupiter Notebook
+        Tableau Public Server (to publish)
+        Tableau Desktop
 
 ## Project Split up -
     (1) CitiBike analysis for the summer month of September of 2019 - Dashboard and Story 
