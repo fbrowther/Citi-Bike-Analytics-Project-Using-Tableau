@@ -1,7 +1,7 @@
 # Tableau-Citi-Bike-Analytics Project
 
 ## Brief Introduction:
-The Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, data is collected, organized, and made public on the Citi Bike Data webpage. As a part of this project, it is required to analyse the chosen month/year data and generate multiple dashboards and look for significant insights to report. 
+The Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, data is collected, organized, and made public on the Citi Bike Data webpage. As a part of this project, it was required to analyse the chosen data (month/year) to look for significant insights to report. 
 
 ![citibike 1](https://user-images.githubusercontent.com/111912050/213473240-0ad6b610-bb5b-4f40-a2b1-d04f7a9f3b2d.jpeg)
 
