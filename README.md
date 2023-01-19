@@ -95,9 +95,9 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 
 ## Limitations of the Project -
 
-(1) Working initially on these projects on tableau public and saving to tableau server was so slow at times.  Sometimes the server crashed only to loose some of the analysed data. The work had to be repeated on Tableau Desktop which allows to save local copies of the files.
+(1) Working initially on these projects on tableau public and saving to tableau public server was so slow.  Sometimes the server crashed only to loose the analysed data. The work had to be repeated on Tableau Desktop which allows to save local copies of the files.
 
-(2) The format of data archived by Citi Bike has changed. These changes included no data availability for gender, birthyear and tripduration since 2021. Citibike has now started to archieve information about the type of bike (Classic, Electric, or Docked) from 2021 which came handy for some analysis. 
+(2) The format of data archived by Citi Bike has changed. These changes included no data availability for gender, birthyear or tripduration since 2021. Citibike has now started to archieve information about the type of bike (Classic, Electric, or Docked) from 2021 which came handy for some extra analysis. 
 
 
  
