@@ -51,6 +51,8 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/CitiBike%202021-22.png)
 
 
+## CitiBike analysis for September of pre- and post-Pandemic (2019, 2020, 2021) - Mini Project
+
 
 
 
