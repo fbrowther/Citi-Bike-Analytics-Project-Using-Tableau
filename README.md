@@ -31,7 +31,7 @@ As a part of this project, I was required to analyse the chosen data (month/year
 
 # CitiBike analysis for September of 2019 - Dashboard and Story
 
-The data was chosen for the month of September, for this part of the project. The selection of this dataset was done (1) to avoid any affects from adverse weather conditions and (2) also to capture what the CitiBike stats have been for this month before the Pandemic hit NewYork.
+Data chosen for this part of the project was September 2019. The selection of this dataset was done (1) to avoid any affects from adverse weather conditions and (2) also to capture what the CitiBike stats have been for this month before the Pandemic hit NewYork.
 
 (1) Interactive dashboard -
 https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics-Summer2019/Dashboard-CitiBikeSep2019
@@ -44,19 +44,20 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeSep2019-Story/Sep2019
 
 ## Summary of the findings -
-        (1) Users commuted between the window of 6:00 - 22:00 with a peak hours of commute i.e., (8:00-9:00)am and (17:00-18:00)pm
+        (1) Users commuted between the window of 6:00 - 22:00 with a peak hours of commute i.e., between (8:00-9:00)am and (17:00-18:00)pm
         (2) User numbers remained consistent through the week. The proportion of Subscribers/Casual users is higher throughout the week. Suscribers used 
             more during weekdays and  casual riders
-        (3) The average duration of trip by subscribers remained under 1000 Seconds (~15 mins). The (Pay As You Go) customers used for an extended duration
-            of time (~30-45mins). The age of users didnot affect the usage time.
-        (4) Male (1) riders were 2.5 times compared to female (2) riders. App 10% users didnot provide the gender information.
-        (5) Citi Bike's top 20 Starting Stations in Sep 2019  concentrated in Manhattan Borough. The top station was West St & Chambers St.
-        (6) Top 20 Ending Stations in Sep 2019  concentrated in Manhattan Borough. The top ending station was West St & Chambers St.
-        (7) The Top 10 Starting and Ending Stations remained almost the same!
+        (3) The average duration of trip by subscribers remained under 1000 Seconds (~15 mins). The (Pay As You Go) customers however used bikes for an
+            extended duration of time (~30-45mins). 
+        (4) The age of users didnot affect the usage time.
+        (5) Male (1) riders were 2.5 times compared to female (2) riders. App 10% users didnot provide the gender information.
+        (6) Citi Bike's top 20 Starting Stations in Sep 2019  concentrated in Manhattan Borough. The top station was West St & Chambers St.
+        (7) Top 20 Ending Stations in Sep 2019  concentrated in Manhattan Borough. The top ending station was West St & Chambers St.
+        (8) The Top 10 Starting and Ending Stations remained almost the same!
 
 # CitiBike analysis for September of 2021-22 - Dashboard and Story
 
-For this part of the analysis, data for the month of September 2021 and 2022 was collected, combined and analysed to see distinct insights that was evident for these post pandemic years. Citibike started to archieve the data for the years 2021 onwards a little bit differently to all the previous years. These changes included no data availability for gender, birthyear information of the riders and tripduration. However, for these two years, Citibike started to archieve information about the type of bike (Classic, Electric, or Docked).
+For this part of the analysis, September 2021 and 2022 data was collected, combined and analysed to see any insights that was evident (for these post pandemic years). Citibike started to archieve the data for the years 2021 onwards a little bit differently to all the previous years. These changes included no data availability for gender, birthyear information of the riders and tripduration. However, for these two years, Citibike started to archieve information about the type of bike (Classic, Electric, or Docked).
 
 Interactive dashboard -
 https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalyticsSep2021-22/Dashboard1
@@ -67,10 +68,10 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalyticsSep2021-22-Story/Story-202122
 
 ## Summary of the findings -
-        (1) Electric bikes accounted for 1/5 of the total bikes available.
+        (1) Electric bikes accounted for 1/5 of the total bikes available to use.
         (2) Two distinct peak of travel times around (8-9am) and (5-6pm) slowly returned after the Pandemic.
         (3) Total trips per year (for 2021 & 2022) was appr. 3.3 Million.
-        (4) The relationship of top 10 starting and end stations. Central Park was on the top for both starting and ending the journey in 2021-22.
+        (4) The relationship of top 10 starting and end stations. Central Park was on the top for both starting and ending journey in Sep 2021-22.
         (5) Top 10 starting stations concentrated primarily in the Manhattan area.
         
 
@@ -95,7 +96,7 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 
 ## Limitations of the Project -
 
-(1) Working initially on these projects on tableau public and saving to tableau public server was so slow.  Sometimes the server crashed only to loose the analysed data. The work had to be repeated on Tableau Desktop which allows to save local copies of the files.
+(1) Working initially on these projects on tableau public and saving to tableau public server was very slow.  Sometimes the server crashed only to loose the analysed data. The work had to be repeated on Tableau Desktop which allows to save local copies of the files.
 
 (2) The format of data archived by Citi Bike has changed. These changes included no data availability for gender, birthyear or tripduration since 2021. Citibike has now started to archieve information about the type of bike (Classic, Electric, or Docked) from 2021 which came handy for some extra analysis. 
 
