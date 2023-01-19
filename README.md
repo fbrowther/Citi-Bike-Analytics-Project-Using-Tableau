@@ -16,7 +16,6 @@ As a part of this project, I was required to analyse the chosen data (month/year
     (5) What are the top 10 stations in the city for starting a journey?
     (6) what are the top 10 stations in the city for ending a journey? 
     (7) How does the average trip duration change by age?
-    (8) What is the average distance in miles for a bike trip?
 
 ## Technologies Used -
         Jupiter Notebook
