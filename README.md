@@ -1,7 +1,7 @@
 # Tableau-Citi-Bike-Analytics Project
 
 ## Brief Introduction:
-The Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, data is collected, organized, and made public on the Citi Bike Data webpage. As a part of this project, it was required to analyse the chosen data (month/year) to look for significant insights to report. 
+The Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Each month, data is collected, organized, and made public on the Citi Bike Data webpage (https://citibikenyc.com/system-data). As a part of this project, it was required to analyse the chosen data (month/year) to look for significant insights to report. 
 
 ![citibike 1](https://user-images.githubusercontent.com/111912050/213473240-0ad6b610-bb5b-4f40-a2b1-d04f7a9f3b2d.jpeg)
 
@@ -26,7 +26,11 @@ The Citi Bike Program has implemented a robust infrastructure for collecting dat
     (3) CitiBike analysis for September of pre- and post-Pandemic (2019, 2020, 2021) - Mini Project
     
 
-# CitiBike analysis for the summer month of September of 2019 - Dashboard and Story 
+# CitiBike analysis for September of 2019 - Dashboard and Story
+
+The data for the month of September was chosen for this part of the project. The selection of this dataset was done (1) to avoid any affects from adverse weather conditions and (2) also to capture what the CitiBike stats have been for this month before the Pandemic.
+
+
 
 
 
