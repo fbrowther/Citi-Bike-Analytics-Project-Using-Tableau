@@ -43,6 +43,17 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 (2) Interactive Story - 
 https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeSep2019-Story/Sep2019
 
+## Summary of the findings -
+        (1) Users commuted between the window of 6:00 - 22:00 with a peak hours of commute i.e., (8:00-9:00)am and (17:00-18:00)pm
+        (2) User numbers remained consistent through the week. The proportion of Subscribers/Casual users is higher throughout the week. Suscribers used 
+            more during weekdays and  casual riders
+        (3) The average duration of trip by subscribers remained under 1000 Seconds (~15 mins). The (Pay As You Go) customers used for an extended duration
+            of time (~30-45mins). The age of users didnot affect the usage time.
+        (4) Male (1) riders were 2.5 times compared to female (2) riders. App 10% users didnot provide the gender information.
+        (5) Citi Bike's top 20 Starting Stations in Sep 2019  concentrated in Manhattan Borough. The top station was West St & Chambers St.
+        (6) Top 20 Ending Stations in Sep 2019  concentrated in Manhattan Borough. The top ending station was West St & Chambers St.
+        (7) The Top 10 Starting and Ending Stations remained almost the same!
+
 # CitiBike analysis for September of 2021-22 - Dashboard only
 
 For this part of the analysis, data for the month of September 2021 and 2022 was collected, combined and analysed to see distinct insights that was evident for these post pandemic years. Citibike started to archieve the data for the years 2021 onwards a little bit differently to all the previous years. These changes included no data availability for gender, birthyear information of the riders and tripduration. However, for these two years, Citibike started to archieve information about the type of bike (Classic, Electric, or Docked).
@@ -52,6 +63,11 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 
 
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/CitiBike%202021-22.png)
+
+## Summary of the findings -
+        
+
+
 
 
 ## CitiBike analysis for the summer of pre- and post-Pandemic years (2019, 2020, 2021) - Mini Project
