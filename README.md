@@ -49,7 +49,7 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeSep2019-Story
         (3) The average duration of trip by subscribers remained under 1000 Seconds (~15 mins). The (Pay As You Go) customers however used bikes for an
             extended duration of time (~30-45mins). 
         (4) The age of users didnot affect the usage time.
-        (5) Male (1) riders were 2.5 times compared to female (2) riders. App 10% users didnot provide the gender information.
+        (5) Male (1) riders were 2.5 times more compared to female (2) riders. Approx 10% users didnot provide the gender information.
         (6) Citi Bike's top 20 Starting Stations in Sep 2019  concentrated in Manhattan Borough. The top station was West St & Chambers St.
         (7) Top 20 Ending Stations in Sep 2019  concentrated in Manhattan Borough. The top ending station was West St & Chambers St.
         (8) The Top 10 Starting and Ending Stations remained almost the same!
