@@ -51,39 +51,31 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/CitiBike%202021-22.png)
 
 
-## CitiBike analysis for September of pre- and post-Pandemic (2019, 2020, 2021) - Mini Project
+## CitiBike analysis for the summer of pre- and post-Pandemic years (2019, 2020, 2021) - Mini Project
 
 (1) Top 10 Starting Stations
+(https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeT10StartingStationsPrePostPandemic/Dash-T10StartingStations)
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/PrePost-StartStations.png)
 
 (2) Top 10 Ending Stations
+(https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeT10EndingStationsPrePostPandemic/Dash-T10EndStations)
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/PrePost-EndStations.png)
 
 (3) Peak time of ride
+(https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikePeakTravelTimePrePostPandemic/Dash-PeakTimeofTravel)
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/PrePost-Peaktime.png)
 
 (4) Ride duration
+(https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeTripDurationPrePostPandemic/Tripduration)
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/PrePost-Tripduration.png)
 
 
 ## Limitations of the Project -
 
+(1) The tableau server saving was so slow at times and working initially on these projects on tableau public which does not allow saving local copies, lost analysed data few times. Hence the work had to be repeated on Tableau Desktop which allows to save local copies of the files.
 
-  
-
-  
-  
+(2) The format of data archieved by Citi Bike has changed. These changes included no data availability for gender, birthyear information of the riders and tripduration since 2021. Citibike has now started to archieve information about the type of bike (Classic, Electric, or Docked) from 2021. 
 
 
-
-
-
-
-
-
-
-
-
-
-
+ 
 
