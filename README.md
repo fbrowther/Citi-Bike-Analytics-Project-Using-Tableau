@@ -21,7 +21,7 @@ The Citi Bike Program has implemented a robust infrastructure for collecting dat
         Tableau Desktop
 
 ## Project Split up -
-    (1) CitiBike analysis for the summer month of September of 2019 - Dashboard and Story 
+    (1) CitiBike analysis for (the summer month of) September of 2019 - Dashboard and Story 
     (2) CitiBike analysis for September of 2021-22 - Dashboard
     (3) CitiBike analysis for September of pre- and post-Pandemic (2019, 2020, 2021) - Mini Project
     
