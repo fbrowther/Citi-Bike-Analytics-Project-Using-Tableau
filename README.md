@@ -26,7 +26,7 @@ As a part of this project, I was required to analyse the chosen data (month/year
 ## Project Split up -
     (1) CitiBike analysis for (the summer month of) September of 2019 - Dashboard and Story 
     (2) CitiBike analysis for September of 2021-22 - Dashboard
-    (3) CitiBike analysis for September of pre- and post-Pandemic (2019, 2020, 2021) - Mini Project
+    (3) CitiBike analysis for September of pre- and post-Pandemic years (2019, 2020, 2021) - Mini Project
     
 
 # CitiBike analysis for September of 2019 - Dashboard and Story
