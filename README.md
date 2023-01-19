@@ -47,14 +47,12 @@ For this part of the analysis, data for the month of September 2021 and 2022 was
 
 
 (1) Interactive dashboard -
-https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics-Summer2019/Dashboard-CitiBikeSep2019
+https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalyticsSep2021-22/Dashboard1
 
 
-![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/CitiBike%202019.png)
+![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/CitiBike%202021-22.png)
 
 
-(2) Interactive Story - 
-https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeSep2019-Story/Sep2019
 
 
 
