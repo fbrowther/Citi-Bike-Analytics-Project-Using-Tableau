@@ -45,7 +45,7 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeSep2019-Story
 
 # CitiBike analysis for September of 2021-22 - Dashboard only
 
-For this part of the analysis, data for the month of September 2021 and 2022 was collected, combined and analysed to see any distinct insights that was evident for these post pandemic years. Citibike started to archieve the data for the years 2021 onwards a liitle bit differently to all the previous years. These changes included no data availability for gender, birthyear information of the riders and tripduration. However, for these two years, Citibike started to archieve information about the type of  bike (Classic, Electric, or Docked).
+For this part of the analysis, data for the month of September 2021 and 2022 was collected, combined and analysed to see distinct insights that was evident for these post pandemic years. Citibike started to archieve the data for the years 2021 onwards a little bit differently to all the previous years. These changes included no data availability for gender, birthyear information of the riders and tripduration. However, for these two years, Citibike started to archieve information about the type of bike (Classic, Electric, or Docked).
 
 Interactive dashboard -
 https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalyticsSep2021-22/Dashboard1
@@ -75,9 +75,9 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 
 ## Limitations of the Project -
 
-(1) The tableau server saving was so slow at times and working initially on these projects on tableau public which does not allow saving local copies, lost analysed data few times. Hence the work had to be repeated on Tableau Desktop which allows to save local copies of the files.
+(1) Working initially on these projects on tableau public and saving to tableau server was so slow at times.  Sometimes the server crashed only to loose some of the analysed data. The work had to be repeated on Tableau Desktop which allows to save local copies of the files.
 
-(2) The format of data archieved by Citi Bike has changed. These changes included no data availability for gender, birthyear information of the riders and tripduration since 2021. Citibike has now started to archieve information about the type of bike (Classic, Electric, or Docked) from 2021. 
+(2) The format of data archived by Citi Bike has changed. These changes included no data availability for gender, birthyear and tripduration since 2021. Citibike has now started to archieve information about the type of bike (Classic, Electric, or Docked) from 2021 which came handy for some analysis. 
 
 
  
