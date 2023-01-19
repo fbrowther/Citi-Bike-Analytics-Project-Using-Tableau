@@ -54,21 +54,25 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeSep2019-Story
         (6) Top 20 Ending Stations in Sep 2019  concentrated in Manhattan Borough. The top ending station was West St & Chambers St.
         (7) The Top 10 Starting and Ending Stations remained almost the same!
 
-# CitiBike analysis for September of 2021-22 - Dashboard only
+# CitiBike analysis for September of 2021-22 - Dashboard and Story
 
 For this part of the analysis, data for the month of September 2021 and 2022 was collected, combined and analysed to see distinct insights that was evident for these post pandemic years. Citibike started to archieve the data for the years 2021 onwards a little bit differently to all the previous years. These changes included no data availability for gender, birthyear information of the riders and tripduration. However, for these two years, Citibike started to archieve information about the type of bike (Classic, Electric, or Docked).
 
 Interactive dashboard -
 https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalyticsSep2021-22/Dashboard1
 
-
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/CitiBike%202021-22.png)
 
+(2) Interactive Story - 
+https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalyticsSep2021-22-Story/Story-202122
+
 ## Summary of the findings -
+        (1) Electric bikes accounted for 1/5 of the total bikes available.
+        (2) Two distinct peak of travel times around (8-9am) and (5-6pm) slowly returned after the Pandemic.
+        (3) Total trips per year (for 2021 & 2022) was appr. 3.3 Million.
+        (4) The relationship of top 10 starting and end stations. Central Park was on the top for both starting and ending the journey in 2021-22.
+        (5) Top 10 starting stations concentrated primarily in the Manhattan area.
         
-
-
-
 
 ## CitiBike analysis for the summer of pre- and post-Pandemic years (2019, 2020, 2021) - Mini Project
 
