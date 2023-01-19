@@ -28,7 +28,10 @@ The Citi Bike Program has implemented a robust infrastructure for collecting dat
 
 # CitiBike analysis for September of 2019 - Dashboard and Story
 
-The data for the month of September was chosen for this part of the project. The selection of this dataset was done (1) to avoid any affects from adverse weather conditions and (2) also to capture what the CitiBike stats have been for this month before the Pandemic.
+The data was chosen for the month of September, for this part of the project. The selection of this dataset was done (1) to avoid any affects from adverse weather conditions and (2) also to capture what the CitiBike stats have been for this month before the Pandemic hit NewYork.
+
+![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/CitiBike%202019.png)
+
 
 
 
