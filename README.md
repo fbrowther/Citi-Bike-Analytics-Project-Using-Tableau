@@ -108,8 +108,11 @@ These changes in data format and information availability also meant that data f
 
 ## Data files used -
 (1) 201909-citibike-tripdata.csv.zip
+
 (2) 202009-citibike-tripdata.csv.zip
+
 (3) 202109-citibike-tripdata.csv.zip
+
 (4) 202209-citibike-tripdata.csv.zip
  
 
