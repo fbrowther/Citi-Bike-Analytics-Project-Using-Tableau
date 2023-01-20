@@ -34,12 +34,10 @@ As a part of this project, I was required to analyse the chosen data (month/year
 
 Data chosen for this part of the project was September 2019. The selection of this dataset was done (1) to avoid any affects from adverse weather conditions and (2) also to capture what the CitiBike stats have been for this month, before the Pandemic hit NewYork.
 
-(1) Interactive dashboard -
-https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics-Summer2019/Dashboard-CitiBikeSep2019
-
-
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/CitiBike%202019.png)
 
+(1) Interactive dashboard -
+https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics-Summer2019/Dashboard-CitiBikeSep2019
 
 (2) Interactive Story - 
 https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeSep2019-Story/Sep2019
@@ -64,11 +62,10 @@ For this part of the analysis, September 2021 and 2022 data was collected, combi
 
 Citibike has started to archieve the data since 2021 in a different format than all the previous years. These changes included no availability of data for gender, birthyear information of the riders and tripduration. Hence, the comparison couldnot be done for these variables. However, for these two years, Citibike started to include information about the type of bike (Classic, Electric, or Docked) which was handy for some extra analysis.
 
-Interactive dashboard -
-https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalyticsSep2021-22/Dashboard1
-
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/CitiBike%202021-22.png)
 
+(1) Interactive dashboard -
+https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalyticsSep2021-22/Dashboard1
 (2) Interactive Story - 
 https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalyticsSep2021-22-Story/Story-202122
 
