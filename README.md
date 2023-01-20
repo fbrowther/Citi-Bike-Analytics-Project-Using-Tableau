@@ -45,7 +45,7 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeSep2019-Story/Sep2019
 
 ## Summary of the findings -
-        (1) Users rode between the window of 6:00 - 22:00 with a peak hours of commute between (8:00-9:00)am and (17:00-18:00)pm
+        (1) Users rode bikes between the window of 6:00 - 22:00 with a peak hours of commute between (8:00-9:00)am and (17:00-18:00)pm
         (2) User numbers remained consistent through the week. The ratio of Subscribers to Casual users remained higher throughout the week. Suscribers 
             used more during weekdays and casual riders over the weekends.
         (3) The average duration of trip by subscribers remained under 1000 Seconds (~15 mins). The (Pay As You Go) customers however used bikes for an
