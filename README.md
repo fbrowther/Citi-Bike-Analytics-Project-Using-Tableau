@@ -82,20 +82,29 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 ## CitiBike User Analysis for the Summer of pre- and post-Pandemic years (2019, 2020, 2021)-Mini Project
 
 (1) Top 10 Starting Stations
-(https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeT10StartingStationsPrePostPandemic/Dash-T10StartingStations)
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/PrePost-StartStations.png)
 
+For interactive visualization:
+(https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeT10StartingStationsPrePostPandemic/Dash-T10StartingStations)
+
+
 (2) Top 10 Ending Stations
-(https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeT10EndingStationsPrePostPandemic/Dash-T10EndStations)
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/PrePost-EndStations.png)
 
+For interactive visualization:
+(https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeT10EndingStationsPrePostPandemic/Dash-T10EndStations)
+
 (3) Peak time of ride
-(https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikePeakTravelTimePrePostPandemic/Dash-PeakTimeofTravel)
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/PrePost-Peaktime.png)
 
+For interactive visualization:
+(https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikePeakTravelTimePrePostPandemic/Dash-PeakTimeofTravel)
+
 (4) Ride duration
-(https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeTripDurationPrePostPandemic/Tripduration)
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/PrePost-Tripduration.png)
+
+For interactive visualization:
+(https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeTripDurationPrePostPandemic/Tripduration)
 
 
 ## Limitations of the Project -
