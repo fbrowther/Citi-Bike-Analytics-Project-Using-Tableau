@@ -32,7 +32,7 @@ As a part of this project, I was required to analyse the chosen data (month/year
 
 # CitiBike analysis for September of 2019 - Dashboard and Story
 
-Data chosen for this part of the project was September 2019. The selection of this dataset was done (1) to avoid any affects from adverse weather conditions and (2) also to capture what the CitiBike stats have been for this month before the Pandemic hit NewYork.
+Data chosen for this part of the project was September 2019. The selection of this dataset was done (1) to avoid any affects from adverse weather conditions and (2) also to capture what the CitiBike stats have been for this month, before the Pandemic hit NewYork.
 
 (1) Interactive dashboard -
 https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics-Summer2019/Dashboard-CitiBikeSep2019
@@ -46,19 +46,23 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeSep2019-Story
 
 ## Summary of the findings -
         (1) Users rode between the window of 6:00 - 22:00 with a peak hours of commute between (8:00-9:00)am and (17:00-18:00)pm
-        (2) User numbers remained consistent through the week. The proportion of Subscribers/Casual users is higher throughout the week. Suscribers used 
-            more during weekdays and  casual riders
+        (2) User numbers remained consistent through the week. The ratio of Subscribers to Casual users remained higher throughout the week. Suscribers 
+            used more during weekdays and casual riders over the weekends.
         (3) The average duration of trip by subscribers remained under 1000 Seconds (~15 mins). The (Pay As You Go) customers however used bikes for an
-            extended duration of time (~30-45mins). 
-        (4) The age of users didnot affect the usage time.
-        (5) Male (1) riders were 2.5 times more compared to female (2) riders. Approx 10% users didnot provide the gender information.
-        (6) Citi Bike's top 20 Starting Stations in Sep 2019  concentrated in Manhattan Borough. The top station was West St & Chambers St.
-        (7) Top 20 Ending Stations in Sep 2019  concentrated in Manhattan Borough. The top ending station was West St & Chambers St.
-        (8) The Top 10 Starting and Ending Stations remained almost the same!
+            extended duration of time ranging from 30-45mins. 
+        (4) The age of users (born from 1970-2005) didnot affect the usage time.
+        (5) Male riders (abbreviated as 1) were 2.5 times more compared to female riders (abbreviated as 2). Approx 10% users didnot provide the gender
+            information.
+        (6) Citi Bike's top 20 starting tations in Sep 2019 concentrated in Manhattan Borough. The top station was 'West St & Chambers St'.
+        (7) Top 20 Ending Stations in Sep 2019 concentrated again in Manhattan Borough. The top ending station was also 'West St & Chambers St'.
+        (8) Most importantly the top 10 Starting and Ending Stations remained almost the same, indicating customers used this mode of transport between
+            these stations more often for commute.
 
 # CitiBike analysis for September of 2021-22 - Dashboard and Story
 
-For this part of the analysis, September 2021 and 2022 data was collected, combined and analysed to see any insights that was evident (for these post pandemic years). Citibike started to archieve the data for the years 2021 onwards a little bit differently to all the previous years. These changes included no data availability for gender, birthyear information of the riders and tripduration. However, for these two years, Citibike started to archieve information about the type of bike (Classic, Electric, or Docked).
+For this part of the analysis, September 2021 and 2022 data was collected, combined and analysed to see any insights that was evident (for these post pandemic years). The choice of these post pandemic summer months were done in order to compare them with Sep 2019 data. 
+
+Citibike has started to archieve the data since 2021 in a different format than all the previous years. These changes included no availability of data for gender, birthyear information of the riders and tripduration. Hence, the comparison couldnot be done for these variables. However, for these two years, Citibike started to include information about the type of bike (Classic, Electric, or Docked) which was handy for some extra analysis.
 
 Interactive dashboard -
 https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalyticsSep2021-22/Dashboard1
@@ -71,9 +75,10 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 ## Summary of the findings -
         (1) Electric bikes accounted for 1/5 of the total bikes available to use.
         (2) Two distinct peak of travel times around (8-9am) and (5-6pm) slowly returned after the Pandemic.
-        (3) Total trips per year (for 2021 & 2022) was appr. 3.3 Million.
-        (4) The relationship of top 10 starting and end stations. Central Park was on the top for both starting and ending journey in Sep 2021-22.
-        (5) Top 10 starting stations concentrated primarily in the Manhattan area.
+        (3) Total trips was appr. 3.3 Million per year for both 2021 and 2022
+        (4) The relationship of top 10 starting and end stations was interesting to note. Central Park was on the top for both starting and ending journey
+            in Sep 2021-22.
+        (5) Top 10 starting stations concentrated primarily in the Manhattan area as i all the previous occasions.
         
 
 ## CitiBike analysis for the summer of pre- and post-Pandemic years (2019, 2020, 2021) - Mini Project
