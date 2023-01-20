@@ -8,7 +8,7 @@ The Citi Bike Program has implemented a robust infrastructure for collecting dat
 
 As a part of this project, I was required to analyse the chosen data (month/year) to look for significant insights to report. 
 
-## Important questions that was asked, included -
+## Important questions that were asked, included -
     (1) How many trips have been recorded in total during the chosen period?
     (2) By what percentage has total ridership grown?
     (3) How have the proportions of short-term customers and annual subscribers changed?
