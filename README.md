@@ -19,6 +19,8 @@ As a part of this project, I was required to analyse the chosen data (month/year
 
 ## Technologies Used -
         Jupiter Notebook
+        Visual Studio Code
+        Pandas
         Tableau Public Server (to publish)
         Tableau Desktop
 
