@@ -76,7 +76,7 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
         (3) Total trips was appr. 3.3 Million per year for both 2021 and 2022
         (4) The relationship of top 10 starting and end stations was interesting to note.
             Central Park was on the top for both starting and ending journey in Sep 2021-22.
-        (5) Top 10 starting stations concentrated primarily in the Manhattan area similar to the previous occasions.
+        (5) Top 10 starting stations concentrated primarily in the Manhattan area similar to previous occasions.
         
 
 ## CitiBike analysis for the summer of pre- and post-Pandemic years (2019, 2020, 2021) - Mini Project
