@@ -79,7 +79,7 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
         (5) Top 10 starting stations concentrated primarily in the Manhattan area similar to previous occasions.
         
 
-## CitiBike analysis for the summer of pre- and post-Pandemic years (2019, 2020, 2021) - Mini Project
+## CitiBike User Analysis for the Summer of pre- and post-Pandemic years (2019, 2020, 2021)-Mini Project
 
 (1) Top 10 Starting Stations
 (https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeT10StartingStationsPrePostPandemic/Dash-T10StartingStations)
