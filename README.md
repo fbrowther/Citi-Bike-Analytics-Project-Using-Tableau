@@ -107,6 +107,10 @@ Citibike has now started to archieve information about the type of bike (Classic
 These changes in data format and information availability also meant that data for all the years (2019-2022) could not be combined to carryout the analysis.
 
 ## Data files used -
+The data files were too large to upload onto this repository. 
+
+These are the data files that were used from the CitiBike website.
+
 (1) 201909-citibike-tripdata.csv.zip
 
 (2) 202009-citibike-tripdata.csv.zip
