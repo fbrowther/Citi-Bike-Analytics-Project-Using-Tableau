@@ -18,9 +18,9 @@ As a part of this project, I was required to analyse the chosen data (month/year
     (7) How does the average trip duration change by age?
 
 ## Technologies Used -
+        Pandas
         Jupiter Notebook
         Visual Studio Code
-        Pandas
         Tableau Public Server (to publish)
         Tableau Desktop
 
