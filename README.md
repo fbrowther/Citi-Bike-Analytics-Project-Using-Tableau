@@ -85,6 +85,7 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/PrePost-StartStations.png)
 
 For interactive visualization:
+
 (https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeT10StartingStationsPrePostPandemic/Dash-T10StartingStations)
 
 
@@ -92,18 +93,21 @@ For interactive visualization:
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/PrePost-EndStations.png)
 
 For interactive visualization:
+
 (https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeT10EndingStationsPrePostPandemic/Dash-T10EndStations)
 
 (3) Peak time of ride
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/PrePost-Peaktime.png)
 
 For interactive visualization:
+
 (https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikePeakTravelTimePrePostPandemic/Dash-PeakTimeofTravel)
 
 (4) Ride duration
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/PrePost-Tripduration.png)
 
 For interactive visualization:
+
 (https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeTripDurationPrePostPandemic/Tripduration)
 
 
