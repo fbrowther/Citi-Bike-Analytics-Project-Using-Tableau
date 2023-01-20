@@ -74,8 +74,8 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
         (1) Electric bikes accounted for 1/5 of the total bikes available to use.
         (2) Two distinct peak of travel times around (8-9am) and (5-6pm) slowly returned after the Pandemic.
         (3) Total trips was appr. 3.3 Million per year for both 2021 and 2022
-        (4) The relationship of top 10 starting and end stations was interesting to note. Central Park was on the top for both starting and ending journey
-            in Sep 2021-22.
+        (4) The relationship of top 10 starting and end stations was interesting to note.
+            Central Park was on the top for both starting and ending journey in Sep 2021-22.
         (5) Top 10 starting stations concentrated primarily in the Manhattan area as i all the previous occasions.
         
 
