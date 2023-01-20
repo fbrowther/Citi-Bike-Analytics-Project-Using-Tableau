@@ -106,6 +106,9 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeDataAnalytics
 Citibike has now started to archieve information about the type of bike (Classic, Electric, or Docked) from 2021 which came handy for some extra analysis.
 These changes in data format and information availability also meant that data for all the years (2019-2022) could not be combined to carryout the analysis.
 
-## Data file for your reference
+## Data files used 
+201909-citibike-tripdata.csv.zip
+202009-citibike-tripdata.csv.zip
+202109-citibike-tripdata.csv.zip
  
 
