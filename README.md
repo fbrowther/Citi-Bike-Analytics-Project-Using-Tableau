@@ -1,4 +1,4 @@
-# Tableau-Citi-Bike-Analytics Project
+# Citi Bike Analytics Project Using Tableau
 
 ![citibike 1](https://user-images.githubusercontent.com/111912050/213473240-0ad6b610-bb5b-4f40-a2b1-d04f7a9f3b2d.jpeg)
 
