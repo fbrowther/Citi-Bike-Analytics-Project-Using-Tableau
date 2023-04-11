@@ -60,7 +60,7 @@ https://public.tableau.com/app/profile/farjana.rowther/viz/CitiBikeSep2019-Story
 
 For this part of the analysis, September 2021 and 2022 data was collected, combined and analysed to see any insights that was evident (for these post pandemic years). The choice of these post pandemic summer months were done in order to compare them with Sep 2019 data. 
 
-Citibike has started to archieve the data since 2021 in a different format than all the previous years. These changes included no availability of data for gender, birthyear information of the riders and tripduration. Hence, the comparison couldnot be done for these variables. However, for these two years, Citibike started to include information about the type of bike (Classic, Electric, or Docked) which was handy for some extra analysis.
+Citibike has started to archieve the data since 2021 in a different format than all the previous years. These changes included no availability of data for gender, birthyear information of the riders and tripduration. Hence, the comparison couldnot be done for these variables. However, for these two years, Citibike started to include information about the type of bike (Classic, Electric, or Docked) which came handy for some extra analysis.
 
 ![citibike 1](https://github.com/fbrowther/Tableau-Citi-Bike-Project/blob/main/Images/CitiBike%202021-22.png)
 
